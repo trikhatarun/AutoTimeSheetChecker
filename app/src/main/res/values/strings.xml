@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Timesheet Checker</string>
+    <string name="internet_error">Please check your internet connection</string>
+    <string name="something_went_wrong">Something went wrong, please try again later!</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="oAuthToken">Slack OAuth Token</string>
+    <string name="user_tag_string">&#60;@%s|cal&#62;</string>
+    <string name="members_list">Members\' List</string>
+    <string name="include_holidays">Include holidays</string>
+    <string name="start_scan_service">Start Scan Service</string>
+    <string name="no_of_holidays">No. of holidays:</string>
+
+    <string-array name="days">
+        <item>0 days</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>3 days</item>
+        <item>4 days</item>
+        <item>5 days</item>
+    </string-array>
+
+    <string name="include_user_in_scan">Include user in Scan</string>
+    <string name="date_month_holder">%s-%s</string>
+    <string name="last_week_s_report">Last week\'s report</string>
+    <string name="total">Total</string>
+    <string name="channel_name">Timesheet Checker Service</string>
+    <string name="channel_description">This channel shows notification related to the timesheet checker service</string>
+    <string name="foreground_service_message">Timesheet evaluation under progress.</string>
+    <string name="slack_message_suffix">&#160;please complete your timesheets. If your timesheet is completed and/or there are no more relevant entries for the week, contact Tarun Trikha to get your timesheet marked manually.</string>
+    <string name="mark_completed">Mark Completed</string>
+    <string name="timesheet_completed">Timesheet for all members is completed.</string>
+
+    <string name="include_user_inDev">Include user in dev team</string>
+    <string name="go_to_developer_section">Go to developer section</string>
+    <string name="slack_message_suffix_daily">&#160;please complete your timesheet for yesterday. If your timesheet is completed and/or there are no more relevant entries for the week, contact Tarun Trikha to get your timesheet marked manually.</string>
+</resources>
